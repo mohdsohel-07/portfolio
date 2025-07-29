@@ -1,104 +1,57 @@
-# 🌐 Mohd Sohel | Personal Portfolio Website
+# 💼 Mohd Sohel – Developer Portfolio Website
 
-A responsive and modern personal portfolio website built using HTML, CSS, JavaScript, and Node.js. This project showcases personal information, featured projects, and includes a contact form that sends emails using NodeMailer.
+Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScript**, and enhanced with animations, dark mode, GitHub integration, and live demos.
 
----
-
-## 📁 Project Structure
-
-```
-/project-root
-│
-├── index.html         # Main HTML structure
-├── style.css          # Styling for the website
-├── script.js          # Client-side JavaScript (interactivity & form handling)
-├── server.js          # Backend server using Node.js and Express
-├── resume.pdf         # Resume available for download (optional)
-```
+🌐 **Live Preview**: [https://mohdsohel-07.github.io/](https://mohdsohel-07.github.io/)
 
 ---
 
-## 🚀 Features
+## 📌 Features
 
-- **Responsive Design:** Optimized for desktops and mobile devices.
-- **Portfolio Projects Section:** Highlights your major works like LetGreen and Phishing Detector.
-- **Dark Mode Friendly:** Includes basic support for dark mode.
-- **Contact Form:** Sends email messages directly using a Node.js backend and NodeMailer.
-- **Interactive UI:** Smooth scrolling, modals, and project previews.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Email Service:** NodeMailer
-- **Styling:** Pure CSS with media queries
-- **Hosting (optional):** Can be hosted on GitHub Pages (frontend) + Render/Heroku (backend)
+- 🔥 Hero section with animated typing effect
+- 🌙 Dark mode toggle
+- 🎨 Clean and responsive design with Bootstrap
+- ⚡ Animated icons and counters
+- 🎮 Embedded Rock Paper Scissors Game
+- 📂 Project section with Live Demo & GitHub Repo links
+- 📞 Contact form with social media icons
+- 💻 Skills section with animated progress bars
 
 ---
 
-## 📩 Contact Form Setup
+## 🛠️ Technologies Used
 
-The backend (`server.js`) uses Gmail for sending emails.
-
-> ⚠️ **Important:** Update the following values in `server.js`:
-```js
-auth: {
-  user: 'your.email@gmail.com', // replace with your Gmail
-  pass: 'your_app_password',    // use App Password if 2FA is enabled
-}
-```
-
-Also, set the recipient email in:
-```js
-to: 'zaiduroy@gmail.com' // recipient address
-```
+- **HTML5**
+- **CSS3** (with custom and Bootstrap styling)
+- **JavaScript**
+- **Font Awesome** (for icons)
+- **Typed.js** (typing effect)
+- **AOS.js** (scroll animations)
+- **Bootstrap 5**
 
 ---
 
-## 🔧 Installation & Usage
+## 📂 Projects Included
 
-### Prerequisites:
-- Node.js installed
-- Internet connection (for Gmail SMTP)
-
-### Steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
-   ```
-
-2. **Install Backend Dependencies:**
-   ```bash
-   npm install express cors body-parser nodemailer
-   ```
-
-3. **Start the Server:**
-   ```bash
-   node server.js
-   ```
-
-4. **Open the `index.html` file** in your browser to view the site locally.
+| Project               | Live Demo | GitHub Repo |
+|-----------------------|-----------|-------------|
+| ✅ To-Do List App      | [Live](https://mohdsohel-07.github.io/To-Dos/) | [Repo](https://github.com/mohdsohel-07/To-Dos) |
+| ✅ Tic Tac Toe Game    | [Live](https://mohdsohel-07.github.io/Tic-Tac-Toe-Game/) | [Repo](https://github.com/mohdsohel-07/Tic-Tac-Toe-Game) |
+| ✅ Rock Paper Scissors | [Live](https://mohdsohel-07.github.io/Rock-Paper-Scissors/) | [Repo](https://github.com/mohdsohel-07/Rock-Paper-Scissors) |
+| ✅ Currency converter  | [Live](https://mohdsohel-07.github.io/currency-converter/) | [Repo](https://github.com/mohdsohel-07/currency-converter) |
 
 ---
 
-## 🌱 Project Highlights
-
-- **LetGreen:** A green initiative using Node.js and Firebase to promote plant protection.
-- **Phishing Website Detector:** Detects malicious websites using Machine Learning.
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-## 🙋‍♂️ Author
+## 👨‍💻 Author
 
 **Mohd Sohel**  
-*Full Stack Developer | AI Enthusiast*  
+📧 Email: [zaiduroy@gmail.com](mailto:zaiduroy@gmail.com)  
+🌐 GitHub: [mohdsohel-07](https://github.com/mohdsohel-07)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mohdsohel-07/portfolio-website.git
