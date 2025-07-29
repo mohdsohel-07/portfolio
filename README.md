@@ -2,7 +2,7 @@
 
 Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScript**, and enhanced with animations, dark mode, GitHub integration, and live demos.
 
-🌐 **Live Preview**: [https://mohdsohel-07.github.io/](https://mohdsohel-07.github.io/)
+🌐 **Live Preview**: [Let's go](https://mohdsohel-07.github.io/portfolio/)
 
 ---
 
