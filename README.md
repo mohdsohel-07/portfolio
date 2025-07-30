@@ -35,10 +35,11 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 
 | Project               | Live Demo | GitHub Repo |
 |-----------------------|-----------|-------------|
-| ✅ To-Do List App      | [Live](https://mohdsohel-07.github.io/To-Dos/) | [Repo](https://github.com/mohdsohel-07/To-Dos) |
+| ✅ Weather forecast    | [Live](https://mohdsohel-07.github.io/weather-forecast/) | [Repo](https://github.com/mohdsohel-07/weather-forecast) |
 | ✅ Tic Tac Toe Game    | [Live](https://mohdsohel-07.github.io/Tic-Tac-Toe-Game/) | [Repo](https://github.com/mohdsohel-07/Tic-Tac-Toe-Game) |
 | ✅ Rock Paper Scissors | [Live](https://mohdsohel-07.github.io/Rock-Paper-Scissors/) | [Repo](https://github.com/mohdsohel-07/Rock-Paper-Scissors) |
 | ✅ Currency converter  | [Live](https://mohdsohel-07.github.io/currency-converter/) | [Repo](https://github.com/mohdsohel-07/currency-converter) |
+| ✅ To-Do List App      | [Live](https://mohdsohel-07.github.io/To-Dos/) | [Repo](https://github.com/mohdsohel-07/To-Dos) |
 
 ---
 
