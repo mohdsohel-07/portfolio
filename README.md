@@ -8,7 +8,7 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
  
 ## 📌 Features
 
-- 🔥 Hero section with animated typing effect
+- 🔥 Hero section with animated typing effect 
 - 🌙 Dark mode toggle 
 - 🎨 Clean and responsive design with Bootstrap
 - ⚡ Animated icons and counters
