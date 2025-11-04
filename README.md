@@ -1,4 +1,4 @@
-# 💼 Mohd Sohel – Developer Portfolio Website 
+# 💼 Mohd Sohel – Developer Portfolio Website  
 
 Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScript**, and enhanced with animations, dark mode, GitHub integration, and live demos.
 
