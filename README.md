@@ -5,7 +5,7 @@ Welcome to my personal **Portfolio Website**, built using **HTML, CSS, JavaScrip
 🌐 **Live Preview**: [Let's go](https://mohdsohel-07.github.io/portfolio/)
 
 ---
-
+ 
 ## 📌 Features
 
 - 🔥 Hero section with animated typing effect
